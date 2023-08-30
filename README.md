@@ -24,9 +24,9 @@ Não há testes automatizados neste projeto.
 
 ## 🛠️ Construído com
 
-* HTML - Linguagem de Marcação para páginas Web.
-* CSS - Linguagem de Estilização para páginas Web.
-* JavaScript - Linguagem de Programação que dá funcionalidades a páginas Web.
+* **HTML** - Linguagem de Marcação para páginas Web.
+* **CSS** - Linguagem de Estilização para páginas Web.
+* **JavaScript** - Linguagem de Programação que dá funcionalidades a páginas Web.
 
 ## 🔨 Decisões de Tecnologia
 
