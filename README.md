@@ -36,7 +36,7 @@ Não há testes automatizados neste projeto.
 
 * **JavaScript**: Utilizado para adicionar a funcionalidade de conversão de moedas.
 
-## 👨🏽‍💻 Versão necessária das tecnologias
+## 👨🏽‍💻 Versão das Tecnologias
 
 * [HTML](https://www.w3.org/TR/html52/) - HTML5
 * [CSS](https://www.w3.org/TR/CSS22/) - CSS3
