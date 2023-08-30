@@ -13,12 +13,6 @@ O projeto "Conversor de Moedas" é uma aplicação web que permite aos usuários
 
 ✅ *Exibição do Valor Convertido*: O valor convertido para reais é exibido na página, mostrando ao usuário o equivalente em moeda local.
 
-✅ *Layout Visual*: O projeto possui um layout visual agradável, com fundo de imagem e elementos de interface bem organizados.
-
-✅ *Link para Alura*: Existe um link na página que redireciona o usuário para o site da Alura, possivelmente para mais informações ou outros recursos relacionados ao projeto.
-
-✅ *Uso de JavaScript*: A conversão é realizada através de um script em JavaScript que realiza o cálculo e atualiza o valor na página.
-
 Essas funcionalidades permitem que os usuários convertam facilmente valores de dólares para reais, tornando o projeto útil para quem precisa fazer estimativas de custos ou entender o valor equivalente em sua moeda local.
 
 ## 🚀 Começando
