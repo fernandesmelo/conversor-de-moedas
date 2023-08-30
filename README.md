@@ -1,6 +1,10 @@
 # Conversor de Moedas
 
-Um simples conversor de moedas que converte valores em dólares para reais.
+Um simples conversor de moedas que converte valores em dólares para reais. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
+
+
+![Captura de tela 2023-08-30 113620](https://github.com/fernandesmelo/conversor-de-moedas/assets/113717317/e0e91213-9b5a-43c9-a6cc-ef55fbaac8ff)
+
 
 ## 🚀 Começando
 
