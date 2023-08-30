@@ -49,9 +49,9 @@ Não há testes automatizados neste projeto.
 
 Veja a lista de [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
-## 🎁 Expressões de gratidão
+## 🎁 Expressões de Gratidão
 
 * Compartilhe este projeto 📢;
 * Convide alguém da equipe para um café virtual ☕;
-* Agradeço a Paulo Silveira que apresemtou a Imersão Dev [LinkedIn](https://www.linkedin.com/in/paulosilveira/) e aos instrutores Guilherme Lima [LinkedIn](https://www.linkedin.com/in/guilherme-lima-developer/) e a Rafaella Ballerine [LinkedIn](https://www.linkedin.com/in/rafaellaballerini/) por nos guiar nos projetos. 🫂;
+* Agradeço a [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/) que apresemtou a Imersão Dev e aos instrutores [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/) e a [Rafaella Ballerine](https://www.linkedin.com/in/rafaellaballerini/) por nos guiar nos projetos. 🫂;
 
