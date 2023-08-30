@@ -46,8 +46,6 @@ Não há testes automatizados neste projeto.
 
 * **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/)
 
-Veja a lista de [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
 ## 🎁 Expressões de Gratidão
 
 * Compartilhe este projeto 📢;
