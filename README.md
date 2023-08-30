@@ -20,7 +20,7 @@ Você precisa ter instalado um navegador web para visualizar o projeto localment
 2. Instale uma IDE (Ambiente de Desenvolvimento Integrado) da sua preferência para ter acesso aos códigos.
 3. Abra o arquivo `index.html` em um navegador web.
 
-## ⚙️ Executando os testes
+## ⚙️ Executando os Testes
 
 Não há testes automatizados neste projeto.
 
@@ -40,9 +40,9 @@ Não há testes automatizados neste projeto.
 
 ## 👨🏽‍💻 Versão das Tecnologias
 
-* [HTML](https://www.w3.org/TR/html52/) - HTML5
-* [CSS](https://www.w3.org/TR/CSS22/) - CSS3
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - ECMAScript 6 (ES6)
+* HTML5
+* CSS3
+* JavaScript ECMAScript 6 (ES6)
 
 ## ✒️ Autor
 
