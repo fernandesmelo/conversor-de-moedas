@@ -22,7 +22,7 @@ Você precisa ter instalado um navegador web para visualizar o projeto localment
 5. Após selecionar a pasta, ela será aberta no VSCode.
 6. Você verá a estrutura de pastas e arquivos do seu projeto no painel lateral esquerdo.
 7. Abra o arquivo index.html em um navegador web.
-8. 
+
 A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
 
 ## ⚙️ Executando os Testes
