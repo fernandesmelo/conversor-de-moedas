@@ -42,10 +42,6 @@ Não há testes automatizados neste projeto.
 * [CSS](https://www.w3.org/TR/CSS22/) - CSS3
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - ECMAScript 6 (ES6)
 
-## 🖇️ Colaborando
-
-Leia [CONTRIBUTING.md](https://github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o código de conduta e o processo para enviar solicitações de pull.
-
 ## 📌 Versão
 
 Usamos [SemVer](http://semver.org/) para controle de versão. Consulte as [tags neste repositório](https://github.com/usuario/tags/do/projeto) para as versões disponíveis.
