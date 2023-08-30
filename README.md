@@ -7,17 +7,17 @@ Um simples [Conversor de Moedas](https://fernandesmelo.github.io/conversor-de-mo
 
 O projeto "Conversor de Moedas" é uma aplicação web que permite aos usuários converter valores de dólares para reais. Suas funcionalidades principais são:
 
-1️⃣ *Entrada de Valor*: A aplicação permite que o usuário insira um valor numérico em dólares que deseja converter para reais.
+✅ *Entrada de Valor*: A aplicação permite que o usuário insira um valor numérico em dólares que deseja converter para reais.
 
-2. *Conversão de Moeda*: Após inserir o valor em dólares, o usuário pode clicar no botão "Converter" para realizar a conversão desse valor para reais, com base em uma taxa de conversão fixa.
+✅ *Conversão de Moeda*: Após inserir o valor em dólares, o usuário pode clicar no botão "Converter" para realizar a conversão desse valor para reais, com base em uma taxa de conversão fixa.
 
-3. *Exibição do Valor Convertido*: O valor convertido para reais é exibido na página, mostrando ao usuário o equivalente em moeda local.
+✅ *Exibição do Valor Convertido*: O valor convertido para reais é exibido na página, mostrando ao usuário o equivalente em moeda local.
 
-4. *Layout Visual*: O projeto possui um layout visual agradável, com fundo de imagem e elementos de interface bem organizados.
+✅ *Layout Visual*: O projeto possui um layout visual agradável, com fundo de imagem e elementos de interface bem organizados.
 
-5. *Link para Alura*: Existe um link na página que redireciona o usuário para o site da Alura, possivelmente para mais informações ou outros recursos relacionados ao projeto.
+✅ *Link para Alura*: Existe um link na página que redireciona o usuário para o site da Alura, possivelmente para mais informações ou outros recursos relacionados ao projeto.
 
-6. *Uso de JavaScript*: A conversão é realizada através de um script em JavaScript que realiza o cálculo e atualiza o valor na página.
+✅ *Uso de JavaScript*: A conversão é realizada através de um script em JavaScript que realiza o cálculo e atualiza o valor na página.
 
 Essas funcionalidades permitem que os usuários convertam facilmente valores de dólares para reais, tornando o projeto útil para quem precisa fazer estimativas de custos ou entender o valor equivalente em sua moeda local.
 
