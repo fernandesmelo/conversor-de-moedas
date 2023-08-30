@@ -7,7 +7,7 @@ Um simples [Conversor de Moedas](https://fernandesmelo.github.io/conversor-de-mo
 
 O projeto "Conversor de Moedas" é uma aplicação web que permite aos usuários converter valores de dólares para reais. Suas funcionalidades principais são:
 
-1. *Entrada de Valor*: A aplicação permite que o usuário insira um valor numérico em dólares que deseja converter para reais.
+1️⃣ *Entrada de Valor*: A aplicação permite que o usuário insira um valor numérico em dólares que deseja converter para reais.
 
 2. *Conversão de Moeda*: Após inserir o valor em dólares, o usuário pode clicar no botão "Converter" para realizar a conversão desse valor para reais, com base em uma taxa de conversão fixa.
 
