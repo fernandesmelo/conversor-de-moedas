@@ -42,10 +42,9 @@ Não há testes automatizados neste projeto.
 * [CSS](https://www.w3.org/TR/CSS22/) - CSS3
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - ECMAScript 6 (ES6)
 
-## ✒️ Autores
+## ✒️ Autor
 
-* **Laércio Fernandes** -*Trabalho Inicial* - [GitHub](https://github.com/fernandesmelo/fernandesmelo)
-* **Laércio Fernandes** - *Documentação* - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/)
+* **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/)
 
 Veja a lista de [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
