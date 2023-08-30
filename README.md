@@ -2,9 +2,7 @@
 
 Um simples conversor de moedas que converte valores em dólares para reais. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
 
-
 ![Captura de tela 2023-08-30 113620](https://github.com/fernandesmelo/conversor-de-moedas/assets/113717317/e0e91213-9b5a-43c9-a6cc-ef55fbaac8ff)
-
 
 ## 🚀 Começando
 
@@ -17,7 +15,8 @@ Você precisa ter instalado um navegador web para visualizar o projeto localment
 ### 🔧 Instalação
 
 1. Clone este repositório para o seu computador.
-2. Abra o arquivo `index.html` em um navegador web.
+2. Instale uma IDE (Ambiente de Desenvolvimento Integrado) da sua preferência para ter acesso aos códigos.
+3. Abra o arquivo `index.html` em um navegador web.
 
 ## ⚙️ Executando os testes
 
@@ -25,7 +24,7 @@ Não há testes automatizados neste projeto.
 
 ## 🛠️ Construído com
 
-* HTML - Linguagem de marcação para páginas Web.
+* HTML - Linguagem de Marcação para páginas Web.
 * CSS - Linguagem de Estilização para páginas Web.
 * JavaScript - Linguagem de Programação que dá funcionalidades a páginas Web.
 
