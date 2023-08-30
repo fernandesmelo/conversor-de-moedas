@@ -49,10 +49,6 @@ Não há testes automatizados neste projeto.
 
 Veja a lista de [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - consulte o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para obter detalhes.
-
 ## 🎁 Expressões de gratidão
 
 * Compartilhe este projeto 📢;
