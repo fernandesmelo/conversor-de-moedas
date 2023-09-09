@@ -46,7 +46,7 @@ Próximos passos...
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
 
-## 🔨 Decisões de Tecnologia
+## 🔨 Tomada de Decisões
 
 * **HTML**: Escolhido para estruturar a página web de forma semântica e acessível.
 
